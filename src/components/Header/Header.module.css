@@ -1,0 +1,16 @@
+.h1{
+  font-size: 30px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.header{
+  padding: 20px;
+  background-color: black;
+  display: flex;
+}
+
+.DropdownMenu{
+  margin: auto;
+}

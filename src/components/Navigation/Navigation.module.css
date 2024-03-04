@@ -1,0 +1,14 @@
+.nav{
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  max-width: 235px;
+  background-color: rgb(77, 77, 77);
+}
+
+.nav Button{
+  margin: 10% 10px ;
+  background-color: rgb(77, 77, 77);
+  padding: 0px;
+  text-align: left;
+}
